@@ -1,8 +1,5 @@
 <h2 align="center"><u>Repository-Readme-Generator</u></h2>
 
-![Generate beautiful Repository Readme](images/banner.png)
-<h4 align="center"> Generate beautiful Repository Readme </h4>
-
 <p align="center">
     <img src="https://img.shields.io/github/stars/tkmx_nc_tkmx /TKMX-NC-TKMX?style=for-the-badge&color=orange">
     <img src="https://img.shields.io/github/forks/tkmx_nc_tkmx /TKMX-NC-TKMX?style=for-the-badge&color=purple">
@@ -20,5 +17,7 @@
 </p>
 
 ### [+] Description
-THIS ORIGINAL REPOSITORE
-
+THIS ORIGINAL REPOSITORE BY tkmx_nc_tkmx
+ok...  but..
+Who is tkmx_nc_tkmx?
+well... tkmx_nc_tkmx, better known as NC or SICARIO, is a Cyberterrorist in a Black Hat Hackers Organization called ELITE 6-27 and the creator of DeepPSecurityOrganizacionOfc .

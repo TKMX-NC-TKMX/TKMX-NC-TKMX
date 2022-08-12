@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Made%20In-Nicaragua-green?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Php Python HTML  SQL SQLi Js Java Css C++-blue?style=flat-square">
 <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tkmx_nc_tkmx &repo=TKMX-NC-TKMX&theme=synthwave">
+  
 </p>
 
 ### [+] Description

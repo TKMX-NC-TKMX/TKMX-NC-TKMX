@@ -1,4 +1,4 @@
-<h2 align="center"><u>tkmx_nnc_tkmx</u></h2>
+<h2 align="center"><u>tkmx_nc_tkmx</u></h2>
 <p align="center">
     <img src="https://img.shields.io/github/stars/tkmx_nc_tkmx /TKMX-NC-TKMX?style=for-the-badge&color=orange">
     <img src="https://img.shields.io/github/forks/tkmx_nc_tkmx /TKMX-NC-TKMX?style=for-the-badge&color=purple">
